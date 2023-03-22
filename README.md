@@ -1,1 +1,2 @@
-# COGS189
+# Classifying Imagined Emotion
+Our data analysis project aims to classify positive and negative emotions from electroencephalography (EEG) signals. We implemented machine learning models on the Imagined Emotion [dataset](https://headit.ucsd.edu/studies/3316f70e-35ff-11e3-a2a9-0050563f2612) to categorize emotional states from EEG signals. By extracting meaningful features to train on the models, we hypothesize that EEG signals may provide reliable data on emotion recognition and indicate how we may manage negative emotions.
